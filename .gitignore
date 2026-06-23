@@ -1,0 +1,23 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environment
+.env
+.venv/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+tmp/
+dist/
+build/
