@@ -3,7 +3,9 @@
 <p align="center">
   一个用于“60 分钟判断一个领域值不值得学”的领域侦察专家 Skill。
 </p>
-
+<p align="center">
+你是否想学习一个领域，却不确定它是否值得投入？你是否看了很多资料，仍拼不出一张清晰的底图？你是否希望在真正开始前，先看懂它的机会、门槛和第一条学习路径？
+</p>
 <p align="center">
   <img alt="OpenClaw Skill" src="https://img.shields.io/badge/OpenClaw-Skill-1f6feb">
   <img alt="QClaw Ready" src="https://img.shields.io/badge/QClaw-Ready-0f766e">
